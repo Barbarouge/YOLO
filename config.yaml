@@ -1,0 +1,7 @@
+path: /Users/barbarosyesilova/Desktop/Yolo/Box_detect_prj/data
+train: images/train  # Eğitim veri seti
+val: images/train    # Doğrulama veri seti (şimdilik train ile aynı)
+  
+# Classes
+names:
+  0: cat
