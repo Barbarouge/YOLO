@@ -23,3 +23,5 @@ You can train your model efficiently with GPU acceleration or use a standard CPU
 ├── 🐍 GPU.py              GPU-accelerated model training
 
 ├── 🐍 predict.py          Detection on images/videos
+
+├── 📝 config.yaml         Dataset & training configuration
